@@ -173,7 +173,6 @@ This repository contains the full pipeline: data integration, feature engineerin
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/username/ecocast-intelligence.git
 cd ecocast-intelligence
 
 # 2. Create and activate a virtual environment
