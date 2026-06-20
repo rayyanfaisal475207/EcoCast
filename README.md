@@ -32,7 +32,6 @@ Air pollution is one of Pakistan's most pressing public health crises, with citi
 
 This repository contains the full pipeline: data integration, feature engineering, model training/evaluation, and an interactive **Streamlit** web application for real-time predictions and health risk advisories.
 
-> 📄 Developed as part of a course project at the **National University of Sciences and Technology (NUST)**, Department of Computing, SEECS.
 
 ### Cities Covered
 
